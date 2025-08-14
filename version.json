@@ -1,4 +1,9 @@
 {
+<<<<<<< HEAD
     "version": "1.0.1",
     "file": "lvgl_porting..bin"
+=======
+    "version": "1.0.2",
+    "file": "ota_project.bin"
+>>>>>>> 5800c41e084fceafc475452e6f7b5a64063be2a1
 }
