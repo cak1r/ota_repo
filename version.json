@@ -1,5 +1,4 @@
 {
-  "version": "1.0.7",
-  "url": "https://your-domain.com/firmware.bin",
-  "mandatory": false
+    "version": "1.0.1",
+    "file": "lvgl_porting..bin"
 }
